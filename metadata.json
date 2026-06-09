@@ -1,0 +1,6 @@
+{
+  "name": "SOP & Dashboard Direktur Utama",
+  "description": "Generator dan editor SOP Direktur Utama (CEO) interaktif berstandar GCG & ISO 9001 serta dashboard pemantauan kinerja eksekutif PT modern di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
