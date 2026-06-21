@@ -29,7 +29,7 @@ export default function App() {
 
   // Initialize company metadata state
   const [companyInfo, setCompanyInfo] = useState<CompanyInfo>({
-    namaPerusahaan: 'Nusantara Global Mandiri',
+    namaPerusahaan: 'Foresyndo Global Indonesia',
     bidangUsaha: 'Developer Real Estate & Investasi Infrastruktur',
     skalaPerusahaan: 'NASIONAL',
     jumlahKaryawan: '450',
@@ -37,7 +37,7 @@ export default function App() {
     bentukUsaha: 'PT',
     visiPerusahaan: 'Menjadi korporasi investasi terintegrasi nomor satu di Indonesia yang unggul dalam pembangunan berkelanjutan berstandar internasional.',
     misiPerusahaan: '1. Melaksanakan investasi berdaya guna tinggi pada sektor strategis.\n2. Menerapkan tata kelola perusahaan yang bersih (GCG Score > 95).\n3. Mewujudkan kebahagiaan dan keselamatan berproduksi bagi karyawan.',
-    nomorDokumen: 'SOP/DIRUT/NGM-001/06/2026',
+    nomorDokumen: 'SOP/DIRUT/FGI-001/06/2026',
     nomorRevisi: '00',
     tanggalBerlaku: '2026-06-09',
     disusunOleh: 'Konsultan Manajemen Korporasi Internasional',
